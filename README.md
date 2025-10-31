@@ -30,7 +30,7 @@ Abaixo está o diagrama conceitual da solução, seguido por uma descrição det
 
 <img width="487" height="464" alt="image" src="https://github.com/user-attachments/assets/448b8241-e97d-45ea-ae30-69d5487f9996" />
 
-
+**[Clique aqui para baixar o Diagrama Conceitual em PDF](agent_diagram.drawio.pdf)**
 
 ### Fluxo Resumido
 
