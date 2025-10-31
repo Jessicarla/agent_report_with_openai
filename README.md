@@ -180,8 +180,9 @@ dbutils.widgets.text("env_file_name", "edite_nome_aqui", "Nome do Arquivo de Con
     * O `print(messages)` ao final de cada célula é opcional e mostra o "raciocínio" passo a passo do agente, sendo excelente para auditoria e debug.
 * **Célula 22:** Query SQL manual para agrupar registros de casos diários e dos últimos 12 meses (preparação para o gráfico).
 * **Célula 23 e 24:** Checagem e conferência dos dados diários.
-* **Célula 25:** Plotagem dos gráficos de tendência.
-* **Célula 26:** **Geração do Relatório Final**, utilizando as variáveis de resposta (ex: `response_1`, `response_2`, etc.) salvas nas células anteriores para compilar o texto.
+* **Célula 25 e 26:** Plotagem dos gráficos de tendência.
+* **Célula 27:** **Geração do Relatório Final**, utilizando as variáveis de resposta (ex: `response_1`, `response_2`, etc.) salvas nas células anteriores para compilar o texto.
+* **Célula 28:** **Geração do Relatório Final visusal**, app criado para visualizar o relatório final organizado e com gráficos.
 
 ---
 
